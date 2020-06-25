@@ -5,14 +5,14 @@
     "license": "ISC",
     "version": "1.0.0",
     "engines": {
-        "node": "^8.9"
+        "node": "^10.18.x"
     },
     "files": [
         "db",
         "srv"
     ],
     "dependencies": {
-        "@sap/cds": "^3.18.1",
+        "@sap/cds": "3.21.x",
         "@sap/xssec": "^2.2.3",
         "express": "^4.17.1",
         "passport": "^0.4.0",

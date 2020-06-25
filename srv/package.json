@@ -3,7 +3,7 @@
     "description": "Generated from ../package.json, do not change!",
     "version": "1.0.0",
     "dependencies": {
-        "@sap/cds": "^3.13.0",
+        "@sap/cds": "3.21.x",
         "@sap/xsenv": "^2.0.0",
         "@sap/xssec": "^2.2.2",
         "passport": "^0.4.0",
@@ -13,7 +13,7 @@
         "helmet": "^3.19.0"
     },
     "engines": {
-        "node": "^8.9",
+        "node": "^10.18.x",
         "npm": "^6"
     },
     "devDependencies": {},
